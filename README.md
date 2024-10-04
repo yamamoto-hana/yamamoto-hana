@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm [yamamoto.hana]! 👋
+Welcome to my GitHub profile! Here are some of my projects and interests.
 
-<!--
-**yamamoto-hana/yamamoto-hana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 好きな食べ物
 
-Here are some ideas to get you started:
+- お寿司
+- とんかつ
+- ゴーヤチャンプル
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 好きな色
+
+- ピンク
+- 水色
+
+## 好きなこと
+
+- ガチャガチャ
+- 買い物
